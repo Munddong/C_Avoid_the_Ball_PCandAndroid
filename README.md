@@ -111,7 +111,8 @@ Mobile버전
 
 ![녹화_2021_03_29_19_35_06_831](https://user-images.githubusercontent.com/81169838/112824812-f3e8a800-90c5-11eb-98d1-92db82340881.gif)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![image](https://user-images.githubusercontent.com/81169838/112828612-e71a8300-90ca-11eb-9f10-2fa4559082f2.png)
+![image](https://user-images.githubusercontent.com/81169838/112828612-e71a8300-90ca-11eb-9f10-2fa4559082f2.png)![image](https://user-images.githubusercontent.com/81169838/112829393-082fa380-90cc-11eb-8fb3-4d797686908e.png)
+
 
 ```
 아이템과 충돌 -> 플레이어의 유령상태(알파 값 조정)와 일정 시간 무적효과.
